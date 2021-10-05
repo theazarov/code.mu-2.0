@@ -1,0 +1,26 @@
+.colored{
+    color: aquamarine;
+}
+
+.strikeOut{
+    text-decoration: line-through;
+}
+
+.underlineText{
+    text-decoration: underline;
+}
+
+.colorRed{
+    color: brown;
+}
+
+#elem12{
+    display: none;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+#elem12.active{
+    display: block;
+}
