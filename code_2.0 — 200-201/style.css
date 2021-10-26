@@ -1,0 +1,23 @@
+#elemOne{
+	width: 200px;
+	height: 200px;
+	background-color: darkgreen;
+    margin: auto;
+    padding-top: 40px;
+}
+
+#elemTwo{
+    width: 150px;
+    height: 150px;
+    background-color: darkorange;
+    margin: auto;
+    padding-top: 30px;
+}
+
+#elemThree{
+    width: 100px;
+    height: 100px;
+    background-color: darkseagreen;
+    margin: auto;
+    padding-top: 10px;
+}
