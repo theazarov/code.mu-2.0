@@ -1,0 +1,24 @@
+/*
+
+#myDiv{
+    padding: 20px;
+    border: 1px solid blue;
+}
+
+.myP{
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+}
+
+*/
+
+div{
+    border: 1px solid red;
+}
+ul{
+    border: 1px solid orange;
+}
+li{
+    border: 1px solid green;
+}
