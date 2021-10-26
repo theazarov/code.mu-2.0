@@ -1,0 +1,39 @@
+#elemOne{
+    width: 200px;
+    height: 200px;
+    background-color: olive;
+}
+
+#elemTwo{
+    width: 150px;
+    height: 150px;
+    background-color: darkslategray;
+}
+
+#elemThree{
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+}
+
+#block:not(.active){
+    display: none;
+}
+
+#deepOne{
+    width: 200px;
+    height: 200px;
+    background-color: olive;
+}
+
+#deepTwo{
+    width: 150px;
+    height: 150px;
+    background-color: darkslategray;
+}
+
+#deepThree{
+    width: 100px;
+    height: 100px;
+    background-color: khaki;
+}
