@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+    width: 300px;
+    height: 300px;
+}
+
+table td {
+    border: 1px solid #333;
+    width: 40px;
+    height: 40px;
+}
+
+.colorGreen{
+    background-color: darkgreen;
+}
+
+.colorRad{
+    background-color: darkred;
+}
+
+.colorBlue{
+    background-color: darkturquoise;
+}
