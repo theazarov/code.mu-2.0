@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 500px;
+    height: 300px;
+}
+
+table td {
+    border: 1px solid #333;
+}
+
+.color1{
+    background: green;
+}
+
+.color2{
+    background: hotpink;
+}
+
+.color3{
+    background: peru;
+}
