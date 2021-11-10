@@ -1,0 +1,25 @@
+.hidden{
+    display: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 500px;
+    height: 300px;
+}
+
+table td {
+    border: 1px solid #333;
+}
+
+.colorRad{
+    background-color: brown;
+}
+
+.colorGreen{
+    background-color: olive;
+}
+
+.colorGray{
+    background-color: slategrey;
+}
